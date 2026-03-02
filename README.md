@@ -40,6 +40,7 @@ Good Loan Rate → 86.2%
 Bad Loan Rate → 13.8%
 
 🔹 Dashboard Pages & Features
+
 1️⃣ Summary Page
 KPI cards
 Good vs Bad loan distribution
