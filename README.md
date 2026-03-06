@@ -1,14 +1,17 @@
 # Bank_Loan_Analysis-Dashboard
 
 🔹 BUSINESS OVERVIEW
+
 Built an interactive Bank Loan Analysis Dashboard using SQL and Power BI to analyze 38.6K+ loan records and track key financial KPIs.
 Delivered actionable insights on loan performance, customer risk, and portfolio health to support data-driven lending decisions.
 
 🔹 PROJECT OVERVIEW
+
 This project focuses on analyzing bank loan data to understand customer behavior, credit risk, and loan performance trends.
 Using SQL for data cleaning and analysis and Power BI for visualization, the dashboard provides real-time insights into loan approvals, funded amounts, repayments, and default patterns, helping banks improve decision-making and reduce financial risk.
 
 🔹 BUSINESS PROBLEM
+
 Banks face challenges in monitoring loan performance, managing credit risk, and identifying high-risk customers due to large volumes of transactional data.
 This project aims to build a centralized analytics dashboard that helps stakeholders track KPIs, identify risk patterns, and optimize lending strategies.
 
